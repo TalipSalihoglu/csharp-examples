@@ -1,0 +1,16 @@
+C:\Users\USER\Desktop\.net\CSharp-Examples\IntermediateOOP\bin\Debug\net5.0\IntermediateOOP.exe
+C:\Users\USER\Desktop\.net\CSharp-Examples\IntermediateOOP\bin\Debug\net5.0\IntermediateOOP.deps.json
+C:\Users\USER\Desktop\.net\CSharp-Examples\IntermediateOOP\bin\Debug\net5.0\IntermediateOOP.runtimeconfig.json
+C:\Users\USER\Desktop\.net\CSharp-Examples\IntermediateOOP\bin\Debug\net5.0\IntermediateOOP.runtimeconfig.dev.json
+C:\Users\USER\Desktop\.net\CSharp-Examples\IntermediateOOP\bin\Debug\net5.0\IntermediateOOP.dll
+C:\Users\USER\Desktop\.net\CSharp-Examples\IntermediateOOP\bin\Debug\net5.0\IntermediateOOP.pdb
+C:\Users\USER\Desktop\.net\CSharp-Examples\IntermediateOOP\obj\Debug\net5.0\IntermediateOOP.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\.net\CSharp-Examples\IntermediateOOP\obj\Debug\net5.0\IntermediateOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\.net\CSharp-Examples\IntermediateOOP\obj\Debug\net5.0\IntermediateOOP.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\.net\CSharp-Examples\IntermediateOOP\obj\Debug\net5.0\IntermediateOOP.AssemblyInfo.cs
+C:\Users\USER\Desktop\.net\CSharp-Examples\IntermediateOOP\obj\Debug\net5.0\IntermediateOOP.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\.net\CSharp-Examples\IntermediateOOP\obj\Debug\net5.0\IntermediateOOP.dll
+C:\Users\USER\Desktop\.net\CSharp-Examples\IntermediateOOP\obj\Debug\net5.0\refint\IntermediateOOP.dll
+C:\Users\USER\Desktop\.net\CSharp-Examples\IntermediateOOP\obj\Debug\net5.0\IntermediateOOP.pdb
+C:\Users\USER\Desktop\.net\CSharp-Examples\IntermediateOOP\obj\Debug\net5.0\IntermediateOOP.genruntimeconfig.cache
+C:\Users\USER\Desktop\.net\CSharp-Examples\IntermediateOOP\obj\Debug\net5.0\ref\IntermediateOOP.dll
